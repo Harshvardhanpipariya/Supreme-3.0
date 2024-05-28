@@ -1,0 +1,5 @@
+How fill() methods works on 2d array
+diagonal print
+column wise input
+right diagonal wise sum
+1:22 hour

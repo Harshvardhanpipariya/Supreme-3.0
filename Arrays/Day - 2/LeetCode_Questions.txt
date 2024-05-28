@@ -1,0 +1,6 @@
+1. ( 136.Single Number (H.W. FIND ALTERNATE METHOD))
+2. ( SORT 0'S & 1'S)
+3. ( SORT 0'S , 1'S & 2'S (DUTCH NATIONAL FLAG))
+4. ( FLIP 1 TO 0 OR 1'S COMPLIMENT (H.W.))
+5. ( 2'S COMPLIMENTS (H.W.))
+
