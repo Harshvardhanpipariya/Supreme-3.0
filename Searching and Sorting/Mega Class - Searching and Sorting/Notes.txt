@@ -1,0 +1,2 @@
+Answer range me aata hoga(for search space method)
+setPrecision function

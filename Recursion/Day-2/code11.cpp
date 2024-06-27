@@ -14,7 +14,7 @@ bool sortedOrNot(int *arr,int size,int index)
        return  sortedOrNot(arr,size,++index);
        
     }else{
-        cout<<"x"<<index<<endl;
+        // cout<<"x"<<index<<endl;
         return false;
     }
 
@@ -24,15 +24,14 @@ bool sortedOrNot(int *arr,int size,int index)
 int main()
 {
 
-   int n[5];
-    cout << "Enter the Array: ";
+  
+    int arr[] = {10, 550, 30, 40, 50};
+    int size = 4;
+    int index = 0;
+    bool ans = sortedOrNot(arr, size, index);
+    cout << "Array is sorted or not: " << ans << endl;
 
-    for (int i = 0; i < 5; i++)
-    {
-        cin >> n[i];
-    }
-
-    sortedOrNot(n,5,0)? cout<<"Array is sorted"<<endl : cout<<"Array is not sorted"<<endl;
+    return 0;
 
     return 0;
 }

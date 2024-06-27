@@ -1,0 +1,5 @@
+Multiple Peaks(H.W.)
+Peak Index
+Pivot Index
+search in a rotated array
+search space problem 

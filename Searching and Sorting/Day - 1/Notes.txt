@@ -1,0 +1,5 @@
+linear search O(N)
+binary search O(log N){ use in only monotonic function}
+read cpp binarySearch stl for cpp reference
+total occurance
+find missing number(H.W.{XOR,MATHS})
